@@ -1,0 +1,21 @@
+{
+    "name": "neko-solution",
+    "author": {
+        "name": "Neko Stark",
+        "email": "coderneko@gmail.com"
+    },
+    "version": "0.0.1",
+    "description": "a game solution",
+    "license": "GPL-3.0",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:CoderNeko/NekoSolution.git"
+    },
+    "devDependencies": {
+        "@types/mocha": "^2.2.41",
+        "mocha": "^3.5.0",
+        "typescript": "^3.0.0",
+        "ts-node": "^3.3.0",
+        "electron": "^2.0.8"
+    }
+}
