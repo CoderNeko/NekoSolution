@@ -20,6 +20,7 @@
         "electron": "^2.0.8",
         "electron-prebuilt": "^1.4.13",
         "mocha": "^5.2.0",
+        "psd": "^3.2.0",
         "ts-node": "^7.0.1",
         "typescript": "^3.0.1"
     },
